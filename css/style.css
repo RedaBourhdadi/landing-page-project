@@ -16,6 +16,7 @@ h1,h2,h3,h4{
  .carousel-item img .img-item{
     height:100vh;
     background-size: cover;
+     width: 100%;
 
 }
 .navbar-dark .navbar-nav .nav-link.active,

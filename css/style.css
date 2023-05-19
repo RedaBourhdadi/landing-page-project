@@ -14,14 +14,14 @@ h1,h2,h3,h4{
  #carouselExampleCaptions ,
  #carouselExampleCaptions .carousel-inner .carousel-item,
  .carousel-item img .img-item{
-     height: inherit;
+     height: 100vh !important;
     background-size: cover;
     
 
 }
 .img-item{
     width: 100%;
-    height: inherit;
+    height: 100vh !important;
 }
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .show .nav-link{
